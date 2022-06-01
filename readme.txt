@@ -1,4 +1,7 @@
-The sonar with library and sonar selector
+Sonar Pioneer
+Leonardo Góngora Velasco
+
+This code is for the use of the sonar with library and  selector
 Use the constructor 
  SonarPioneer Sonar(S0,S1,S2,trigger,Inhibits,Echo);
 Function:
